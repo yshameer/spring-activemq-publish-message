@@ -17,7 +17,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<springfox.version>2.5.0</springfox.version>
+		<springfox.version>2.10.0</springfox.version>
 		<spring-camel-activemq-starter.version>1.0.0-SNAPSHOT</spring-camel-activemq-starter.version>
 	</properties>
 
